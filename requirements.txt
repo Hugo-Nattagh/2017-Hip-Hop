@@ -1,0 +1,16 @@
+- For the api.py script:
+
+You need a token to use the Genius.com API.
+You'll get one if you sign up to the website -> https://genius.com/api-clients
+
+pip install bs4
+pip install lyricsgenius
+
+
+
+
+- For the textm.py script:
+
+pip install nltk
+pip install textblob
+pip install vadersentiment
