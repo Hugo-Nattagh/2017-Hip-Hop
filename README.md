@@ -34,7 +34,7 @@ Long story short, sentiment analysis, as for now, isn’t the way to go to measu
 
 I visualized it anyway, to see the relative ranking with this technique.
 
-![alt text](2017-Hip-Hop/Ranking.png)
+![alt text](https://github.com/Hugo-Nattagh/2017-Hip-Hop/blob/master/Ranking.png)
 
 By doing this project, I warmed up with text mining and sentiment analysis on python, and I’d like to go on with another year, or all verses from an artist, or his discography... But I would need to get a closer look at the existing dictionnaries to, if possible, somehow adjust them to rap lyrics. Or maybe remove all expressions that are too neutral.
 
